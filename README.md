@@ -7,4 +7,4 @@ Each column in the dataset contains information provided by the member of the Qu
 
 The files were then converted to csv formats before importing them to jupyter notebook and merged to one dataset.
 
-Data wrangling and cleaning activities were carrieb out before creating an interactive Dashboard on Tableau
+Data wrangling and cleaning activities were carried out before creating an interactive Dashboard on Tableau
