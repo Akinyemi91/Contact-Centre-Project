@@ -8,3 +8,5 @@ Each column in the dataset contains information provided by the member of the Qu
 The files were then converted to csv formats before importing them to jupyter notebook and merged to one dataset.
 
 Data wrangling and cleaning activities were carried out before creating an interactive Dashboard on Tableau
+
+Please find here link for the dashboard [Tableau Link](https://public.tableau.com/app/profile/akinyemi.akinbode/viz/ContactCentre/Dashboard1?publish=yes)
